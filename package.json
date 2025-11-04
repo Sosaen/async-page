@@ -1,0 +1,23 @@
+{
+  "name": "async-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gh-pages": "gh-page -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sosaen/async-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sosaen/async-page/issues"
+  },
+  "homepage": "https://github.com/Sosaen/async-page#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
